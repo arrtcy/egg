@@ -18,7 +18,7 @@
     "eslint-config-egg": "^12"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=16.0.0"
   },
   "scripts": {
     "start": "egg-scripts start --daemon --title=egg-server-Tamagon",
