@@ -10,7 +10,7 @@ class HomeController extends Controller {
 
   async show() {
     const { ctx } = this;
-    ctx.body = 'show 返回';
+    ctx.body = 'show返回';
   }
 }
 
